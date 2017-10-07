@@ -1,0 +1,7 @@
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\Zarzadzanie_pojazdami_s1\Zarzadzanie_pojazdami_s1\bin\Debug\Zarzadzanie_pojazdami_s1.exe.config
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\Zarzadzanie_pojazdami_s1\Zarzadzanie_pojazdami_s1\bin\Debug\Zarzadzanie_pojazdami_s1.exe
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\Zarzadzanie_pojazdami_s1\Zarzadzanie_pojazdami_s1\bin\Debug\Zarzadzanie_pojazdami_s1.pdb
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\Zarzadzanie_pojazdami_s1\Zarzadzanie_pojazdami_s1\obj\Debug\Zarzadzanie_pojazdami_s1.csprojResolveAssemblyReference.cache
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\Zarzadzanie_pojazdami_s1\Zarzadzanie_pojazdami_s1\obj\Debug\Zarzadzanie_pojazdami_s1.csproj.CoreCompileInputs.cache
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\Zarzadzanie_pojazdami_s1\Zarzadzanie_pojazdami_s1\obj\Debug\Zarzadzanie_pojazdami_s1.exe
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\Zarzadzanie_pojazdami_s1\Zarzadzanie_pojazdami_s1\obj\Debug\Zarzadzanie_pojazdami_s1.pdb
